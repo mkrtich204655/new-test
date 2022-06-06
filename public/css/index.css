@@ -1,0 +1,59 @@
+body{
+    background-color: #00000012;
+}
+
+.base_container{
+    width: 80%;
+    margin: 60px auto;
+
+}
+.upcoming{
+    background: linear-gradient(45deg, #f71f1f85, #ecebc5);
+    padding: 20px;
+    border-radius: 5px;
+}
+.upcoming h4{
+    border-bottom: 1px solid #0000005e;
+    padding-bottom: 10px;
+}
+.menu{
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background: linear-gradient(45deg, #008cff4a, #3cefce38);
+    border-radius: 5px;
+}
+.menu h3{
+    color: #002bff;
+}
+#searchByName, #searchByDate{
+    height: 26px;
+    font-size: 15px;
+    border-radius: 5px;
+    outline: none;
+    border: 0;
+    padding-left: 5px;
+}
+.all_series{
+    background: linear-gradient(45deg, #aaf1d9, #c4ece7);
+    padding: 14px;
+    margin: 10px auto;
+    border-radius: 5px;
+}
+.no_result{
+    color: #0000006b;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
